@@ -4,7 +4,7 @@
         "With this macro you can save a selected text in a separate file and link it with \\input{} tag.",
         "",
         "1. Select a text",
-        "2. Leek macro",
+        "2. Initiate macro",
         "3. Choose a filename (without file extension)",
         "4. New file with the selected text is saved in the same folder.",
         "5. The selected text is replaced by the \"\\ input {filename}\""
