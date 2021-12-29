@@ -3,10 +3,10 @@
 It's written in QtScript, which is based on ECMAScript.
 
 ## Install: 
-1. Download xxx
+1. Download SelectionToNewFile.txsMacro
 2. Open TeXstudio/Macro/Edit Macro
 3. Import Macro
-4. Select xxx
+4. Select SelectionToNewFile.txsMacro
 
 ## HowTo:
 1. Select a text
