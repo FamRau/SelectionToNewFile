@@ -1,4 +1,4 @@
-# SelectionToNewFile
+# TeXstudio Macro - SelectionToNewFile
 [TeXstudio](https://www.texstudio.org/) macro to copy a selected text to a new file and link it with \input{}
 It's written in QtScript, which is based on ECMAScript.
 
